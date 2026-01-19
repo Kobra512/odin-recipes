@@ -16,8 +16,8 @@ img {
   margin-top: 10px
 }
 
-h2 {
-  text-transform: ;
+h2, h3 {
+  text-transform: uppercase;
 }
 
 
